@@ -1,0 +1,38 @@
+{
+  "namespace": "settings.shell",
+  "packages": [
+    "dsh-client-ui-settings-shell"
+  ],
+  "en": {
+    "title": "Shell",
+    "description": "Limit how long each command may run and how much it may output.",
+    "timeoutMs": "Command timeout (ms)",
+    "timeoutMsHint": "How long one command may run before it is terminated.",
+    "maxOutputBytes": "Output cap per stream (bytes)",
+    "maxOutputBytesHint": "Output beyond this spills to a temporary file rather than being lost.",
+    "overridden": "Overridden",
+    "reset": "Reset to default",
+    "readOnly": "This deployment stores settings read-only.",
+    "unavailable": "This plugin is not loaded, so it cannot be configured right now.",
+    "save": "Save",
+    "saving": "Saving…",
+    "saveFailed": "The deployment did not accept these values; they were left for you to correct.",
+    "invalidNumber": "Enter a number, or leave blank to use the default."
+  },
+  "ru": {
+    "title": "Оболочка",
+    "description": "Ограничьте время выполнения каждой команды и объём её вывода.",
+    "timeoutMs": "Тайм-аут команды (мс)",
+    "timeoutMsHint": "Сколько времени команда может выполняться до принудительного завершения.",
+    "maxOutputBytes": "Лимит вывода на поток (байты)",
+    "maxOutputBytesHint": "Вывод сверх этого лимита записывается во временный файл, а не теряется.",
+    "overridden": "Переопределено",
+    "reset": "Сбросить до значения по умолчанию",
+    "readOnly": "В этом развёртывании настройки хранятся только для чтения.",
+    "unavailable": "Этот плагин не загружен, поэтому сейчас его нельзя настроить.",
+    "save": "Сохранить",
+    "saving": "Сохранение…",
+    "saveFailed": "Развёртывание не приняло эти значения — исправьте их и повторите.",
+    "invalidNumber": "Введите число или оставьте поле пустым, чтобы использовать значение по умолчанию."
+  }
+}

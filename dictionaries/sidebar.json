@@ -1,0 +1,20 @@
+{
+  "namespace": "sidebar",
+  "packages": [
+    "dsh-client-ui-sidebar"
+  ],
+  "en": {
+    "session.new": "New Session",
+    "session.new.label": "New session",
+    "toggle.open": "Open sidebar",
+    "toggle.collapse": "Collapse sidebar",
+    "panels.label": "Global panels"
+  },
+  "ru": {
+    "session.new": "Новая сессия",
+    "session.new.label": "Новая сессия",
+    "toggle.open": "Открыть боковую панель",
+    "toggle.collapse": "Свернуть боковую панель",
+    "panels.label": "Глобальные панели"
+  }
+}

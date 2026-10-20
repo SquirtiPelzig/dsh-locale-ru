@@ -1,0 +1,50 @@
+{
+  "namespace": "feedback",
+  "packages": [
+    "dsh-client-ui-message-feedback"
+  ],
+  "en": {
+    "action.like": "Good response",
+    "action.likeActive": "Remove rating",
+    "action.dislike": "Bad response",
+    "action.dislikeActive": "Remove rating",
+    "dialog.title": "Submit feedback",
+    "dialog.categories": "Feedback category",
+    "dialog.detail": "Feedback details",
+    "dialog.hint": "Add details to help us improve. Your submission will include the current conversation log.",
+    "category.task-result": "Task result",
+    "category.instruction-following": "Instruction understanding and following",
+    "category.product-interaction": "Product features and interaction",
+    "category.service-stability": "Stability and speed",
+    "category.resource-cost": "Resource usage and cost",
+    "category.security-privacy-permission": "Security, privacy, and permissions",
+    "category.other": "Other",
+    "toast.recorded": "Thanks for your feedback",
+    "error.conflict": "This feedback changed elsewhere; the latest state is shown",
+    "error.load": "Could not load feedback",
+    "error.generic": "Could not save feedback",
+    "error.noteTooLarge": "The description is too long; shorten it and submit again"
+  },
+  "ru": {
+    "action.like": "Хороший ответ",
+    "action.likeActive": "Убрать оценку",
+    "action.dislike": "Плохой ответ",
+    "action.dislikeActive": "Убрать оценку",
+    "dialog.title": "Отправить отзыв",
+    "dialog.categories": "Категория отзыва",
+    "dialog.detail": "Подробности отзыва",
+    "dialog.hint": "Добавьте подробности, чтобы помочь нам стать лучше. К отзыву будет приложен журнал текущего диалога.",
+    "category.task-result": "Результат задачи",
+    "category.instruction-following": "Понимание и соблюдение инструкций",
+    "category.product-interaction": "Функции и взаимодействие",
+    "category.service-stability": "Стабильность и скорость",
+    "category.resource-cost": "Потребление ресурсов и стоимость",
+    "category.security-privacy-permission": "Безопасность, приватность и разрешения",
+    "category.other": "Другое",
+    "toast.recorded": "Спасибо за отзыв",
+    "error.conflict": "Этот отзыв изменён в другом месте; показано последнее состояние",
+    "error.load": "Не удалось загрузить отзыв",
+    "error.generic": "Не удалось сохранить отзыв",
+    "error.noteTooLarge": "Описание слишком длинное; сократите его и отправьте снова"
+  }
+}

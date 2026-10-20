@@ -1,0 +1,20 @@
+{
+  "namespace": "approval",
+  "packages": [
+    "dsh-client-ui-approval"
+  ],
+  "en": {
+    "waiting": "Waiting for approval",
+    "detail.aria": "Approval details",
+    "escalation": "Tool {toolName} requests privileged execution",
+    "reject": "Reject",
+    "allowOnce": "Allow once"
+  },
+  "ru": {
+    "waiting": "Ожидание подтверждения",
+    "detail.aria": "Сведения о подтверждении",
+    "escalation": "Инструмент {toolName} запрашивает привилегированное выполнение",
+    "reject": "Отклонить",
+    "allowOnce": "Разрешить один раз"
+  }
+}

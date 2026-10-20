@@ -1,0 +1,20 @@
+{
+  "namespace": "sidebarImage",
+  "packages": [
+    "dsh-client-ui-sidebar-documentpreview"
+  ],
+  "en": {
+    "title": "Image",
+    "preview": "Image preview: {name}",
+    "loading": "Rendering document...",
+    "failed": "This image could not be displayed.",
+    "unsupported": "Image preview requires the complete file contents."
+  },
+  "ru": {
+    "title": "Изображение",
+    "preview": "Предпросмотр изображения: {name}",
+    "loading": "Отрисовка документа…",
+    "failed": "Не удалось показать это изображение.",
+    "unsupported": "Для предпросмотра изображения нужны полные данные файла."
+  }
+}

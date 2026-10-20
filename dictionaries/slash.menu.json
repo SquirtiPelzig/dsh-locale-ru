@@ -1,0 +1,28 @@
+{
+  "namespace": "slash.menu",
+  "packages": [
+    "dsh-client-ui-input-trigger"
+  ],
+  "en": {
+    "command": "Commands",
+    "skill": "Skills",
+    "subagent": "Subagents",
+    "loading": "Loading…",
+    "drill.aria": "Browse folder",
+    "drill.hint": "Browse folder",
+    "drill.key": "Tab",
+    "crumbs.aria": "Folder navigation",
+    "suggestions.aria": "Trigger suggestions"
+  },
+  "ru": {
+    "command": "Команды",
+    "skill": "Навыки",
+    "subagent": "Субагенты",
+    "loading": "Загрузка…",
+    "drill.aria": "Просмотр папки",
+    "drill.hint": "Просмотр папки",
+    "drill.key": "Tab",
+    "crumbs.aria": "Навигация по папкам",
+    "suggestions.aria": "Подсказки триггеров"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "namespace": "sidebarPdf",
+  "packages": [
+    "dsh-client-ui-sidebar-documentpreview"
+  ],
+  "en": {
+    "title": "PDF",
+    "pageImage": "PDF page {page}",
+    "loading": "Rendering document...",
+    "rendering": "Rendering page…",
+    "failed": "Cannot display PDF: {message}",
+    "password": "This PDF requires a password; password-protected previews are not supported.",
+    "workerFailed": "The PDF rendering process could not continue. Please retry.",
+    "unsupported": "PDF preview requires the complete file contents.",
+    "retry": "Retry"
+  },
+  "ru": {
+    "title": "PDF",
+    "pageImage": "Страница PDF {page}",
+    "loading": "Отрисовка документа…",
+    "rendering": "Отрисовка страницы…",
+    "failed": "Не удалось показать PDF: {message}",
+    "password": "Для этого PDF нужен пароль; предпросмотр файлов с паролем не поддерживается.",
+    "workerFailed": "Процесс отрисовки PDF не смог продолжить работу. Повторите попытку.",
+    "unsupported": "Для предпросмотра PDF нужны полные данные файла.",
+    "retry": "Повторить"
+  }
+}

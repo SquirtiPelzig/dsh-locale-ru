@@ -1,0 +1,16 @@
+{
+  "namespace": "sidebarCodePreview",
+  "packages": [
+    "dsh-client-ui-sidebar-documentpreview"
+  ],
+  "en": {
+    "title": "Code",
+    "copy": "Copy",
+    "copied": "Copied"
+  },
+  "ru": {
+    "title": "Код",
+    "copy": "Копировать",
+    "copied": "Скопировано"
+  }
+}

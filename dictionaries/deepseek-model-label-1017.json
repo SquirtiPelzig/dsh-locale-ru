@@ -1,0 +1,12 @@
+{
+  "namespace": "deepseek-model-label-1017",
+  "packages": [
+    "dsh-client-ui-deepseek-model-label-1017"
+  ],
+  "en": {
+    "badge.label": "1017"
+  },
+  "ru": {
+    "badge.label": "1017"
+  }
+}

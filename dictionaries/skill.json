@@ -1,0 +1,26 @@
+{
+  "namespace": "skill",
+  "packages": [
+    "dsh-client-ui-skill"
+  ],
+  "en": {
+    "row.title": "Skill",
+    "row.running": "Loading skill",
+    "row.preparing": "Preparing to load a skill",
+    "row.failed": "Skill load failed",
+    "row.stopped": "Skill load stopped",
+    "row.instructions": "Instructions",
+    "row.inspect": "Inspect",
+    "menu.userOnly": "user-only"
+  },
+  "ru": {
+    "row.title": "Навык",
+    "row.running": "Загрузка навыка",
+    "row.preparing": "Подготовка к загрузке навыка",
+    "row.failed": "Не удалось загрузить навык",
+    "row.stopped": "Загрузка навыка остановлена",
+    "row.instructions": "Инструкции",
+    "row.inspect": "Просмотреть",
+    "menu.userOnly": "только для пользователя"
+  }
+}

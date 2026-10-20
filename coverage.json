@@ -1,0 +1,449 @@
+{
+  "generatedAt": "2026-10-20T13:16:53.831Z",
+  "sourceVersion": "0.2.1-rc.2",
+  "namespaces": 63,
+  "keys": 2730,
+  "coverage": [
+    {
+      "namespace": "agent-team",
+      "packages": [
+        "dsh-experimental-client-ui-agent-team"
+      ],
+      "keys": 25
+    },
+    {
+      "namespace": "approval",
+      "packages": [
+        "dsh-client-ui-approval"
+      ],
+      "keys": 5
+    },
+    {
+      "namespace": "chat",
+      "packages": [
+        "dsh-client-ui-chat"
+      ],
+      "keys": 191
+    },
+    {
+      "namespace": "command",
+      "packages": [
+        "dsh-client-ui-commands"
+      ],
+      "keys": 28
+    },
+    {
+      "namespace": "common",
+      "packages": [
+        "dsh-client-locale"
+      ],
+      "keys": 41
+    },
+    {
+      "namespace": "conversation",
+      "packages": [
+        "dsh-client-ui-conversation"
+      ],
+      "keys": 371
+    },
+    {
+      "namespace": "cordis",
+      "packages": [
+        "dsh-client-ui-cordis"
+      ],
+      "keys": 51
+    },
+    {
+      "namespace": "cotTranslation",
+      "packages": [
+        "dsh-experimental-client-ui-cot-translation"
+      ],
+      "keys": 32
+    },
+    {
+      "namespace": "deepseek-model-label-1017",
+      "packages": [
+        "dsh-client-ui-deepseek-model-label-1017"
+      ],
+      "keys": 1
+    },
+    {
+      "namespace": "deliverables",
+      "packages": [
+        "dsh-client-ui-deliverables"
+      ],
+      "keys": 60
+    },
+    {
+      "namespace": "directory-browser",
+      "packages": [
+        "dsh-client-ui-directory-picker-browse"
+      ],
+      "keys": 13
+    },
+    {
+      "namespace": "documentHtml",
+      "packages": [
+        "dsh-client-ui-sidebar-documentpreview"
+      ],
+      "keys": 4
+    },
+    {
+      "namespace": "documentMarkdown",
+      "packages": [
+        "dsh-client-ui-sidebar-documentpreview"
+      ],
+      "keys": 4
+    },
+    {
+      "namespace": "feedback",
+      "packages": [
+        "dsh-client-ui-message-feedback"
+      ],
+      "keys": 20
+    },
+    {
+      "namespace": "goal",
+      "packages": [
+        "dsh-client-ui-goal"
+      ],
+      "keys": 12
+    },
+    {
+      "namespace": "job",
+      "packages": [
+        "dsh-client-ui-jobs"
+      ],
+      "keys": 40
+    },
+    {
+      "namespace": "model",
+      "packages": [
+        "dsh-client-ui-model-selection"
+      ],
+      "keys": 23
+    },
+    {
+      "namespace": "open-in-app",
+      "packages": [
+        "dsh-client-ui-open-in-app"
+      ],
+      "keys": 15
+    },
+    {
+      "namespace": "permission.access",
+      "packages": [
+        "dsh-client-ui-permission-presets"
+      ],
+      "keys": 17
+    },
+    {
+      "namespace": "plan",
+      "packages": [
+        "dsh-client-ui-plan"
+      ],
+      "keys": 17
+    },
+    {
+      "namespace": "pluginManager",
+      "packages": [
+        "dsh-client-ui-plugin-manager"
+      ],
+      "keys": 221
+    },
+    {
+      "namespace": "pluginMarket",
+      "packages": [
+        "dsh-client-ui-plugin-market"
+      ],
+      "keys": 78
+    },
+    {
+      "namespace": "question",
+      "packages": [
+        "dsh-client-ui-user-questions"
+      ],
+      "keys": 31
+    },
+    {
+      "namespace": "reference",
+      "packages": [
+        "dsh-client-ui-reference"
+      ],
+      "keys": 15
+    },
+    {
+      "namespace": "schedule.catalog",
+      "packages": [
+        "dsh-client-ui-schedule"
+      ],
+      "keys": 16
+    },
+    {
+      "namespace": "schedule.manager",
+      "packages": [
+        "dsh-client-ui-schedule"
+      ],
+      "keys": 134
+    },
+    {
+      "namespace": "secretMask",
+      "packages": [
+        "dsh-client-ui-secret-mask"
+      ],
+      "keys": 2
+    },
+    {
+      "namespace": "session-inspector",
+      "packages": [
+        "dsh-experimental-session-inspector"
+      ],
+      "keys": 52
+    },
+    {
+      "namespace": "session-log-download",
+      "packages": [
+        "dsh-session-log-export"
+      ],
+      "keys": 10
+    },
+    {
+      "namespace": "settings",
+      "packages": [
+        "dsh-client-ui-settings-general"
+      ],
+      "keys": 41
+    },
+    {
+      "namespace": "settings.account",
+      "packages": [
+        "dsh-client-ui-settings-account"
+      ],
+      "keys": 94
+    },
+    {
+      "namespace": "settings.agentLoop",
+      "packages": [
+        "dsh-client-ui-settings-agent-loop"
+      ],
+      "keys": 12
+    },
+    {
+      "namespace": "settings.agentPreset",
+      "packages": [
+        "dsh-client-ui-agent-preset"
+      ],
+      "keys": 28
+    },
+    {
+      "namespace": "settings.locale",
+      "packages": [
+        "dsh-client-locale"
+      ],
+      "keys": 1
+    },
+    {
+      "namespace": "settings.models",
+      "packages": [
+        "dsh-client-ui-settings-models"
+      ],
+      "keys": 134
+    },
+    {
+      "namespace": "settings.permission",
+      "packages": [
+        "dsh-client-ui-permission-presets"
+      ],
+      "keys": 12
+    },
+    {
+      "namespace": "settings.pluginInventory",
+      "packages": [
+        "dsh-client-ui-settings-plugin-inventory"
+      ],
+      "keys": 37
+    },
+    {
+      "namespace": "settings.plugins",
+      "packages": [
+        "dsh-client-ui-settings-plugins"
+      ],
+      "keys": 5
+    },
+    {
+      "namespace": "settings.sessionLog",
+      "packages": [
+        "dsh-client-ui-settings-session-log"
+      ],
+      "keys": 4
+    },
+    {
+      "namespace": "settings.shell",
+      "packages": [
+        "dsh-client-ui-settings-shell"
+      ],
+      "keys": 14
+    },
+    {
+      "namespace": "settings.subagent",
+      "packages": [
+        "dsh-client-ui-settings-subagent"
+      ],
+      "keys": 35
+    },
+    {
+      "namespace": "settings.theme",
+      "packages": [
+        "dsh-client-ui-theme"
+      ],
+      "keys": 25
+    },
+    {
+      "namespace": "settings.webSearch",
+      "packages": [
+        "dsh-client-ui-settings-web-search"
+      ],
+      "keys": 27
+    },
+    {
+      "namespace": "shortcuts",
+      "packages": [
+        "dsh-client-ui-shortcuts"
+      ],
+      "keys": 56
+    },
+    {
+      "namespace": "shortcuts.layout",
+      "packages": [
+        "dsh-client-ui-layout"
+      ],
+      "keys": 1
+    },
+    {
+      "namespace": "sidebar",
+      "packages": [
+        "dsh-client-ui-sidebar"
+      ],
+      "keys": 5
+    },
+    {
+      "namespace": "sidebarBrowser",
+      "packages": [
+        "dsh-client-ui-sidebar-browser"
+      ],
+      "keys": 26
+    },
+    {
+      "namespace": "sidebarCodePreview",
+      "packages": [
+        "dsh-client-ui-sidebar-documentpreview"
+      ],
+      "keys": 3
+    },
+    {
+      "namespace": "sidebarDocumentPreview",
+      "packages": [
+        "dsh-client-ui-sidebar-documentpreview"
+      ],
+      "keys": 22
+    },
+    {
+      "namespace": "sidebarExcel",
+      "packages": [
+        "dsh-client-ui-sidebar-documentpreview"
+      ],
+      "keys": 15
+    },
+    {
+      "namespace": "sidebarFiles",
+      "packages": [
+        "dsh-client-ui-sidebar-files"
+      ],
+      "keys": 17
+    },
+    {
+      "namespace": "sidebarImage",
+      "packages": [
+        "dsh-client-ui-sidebar-documentpreview"
+      ],
+      "keys": 5
+    },
+    {
+      "namespace": "sidebarOffice",
+      "packages": [
+        "dsh-client-ui-sidebar-documentpreview"
+      ],
+      "keys": 15
+    },
+    {
+      "namespace": "sidebarPdf",
+      "packages": [
+        "dsh-client-ui-sidebar-documentpreview"
+      ],
+      "keys": 9
+    },
+    {
+      "namespace": "sidebarRight",
+      "packages": [
+        "dsh-client-ui-sidebar-right"
+      ],
+      "keys": 34
+    },
+    {
+      "namespace": "sidebarTerminal",
+      "packages": [
+        "dsh-client-ui-sidebar-terminal"
+      ],
+      "keys": 28
+    },
+    {
+      "namespace": "skill",
+      "packages": [
+        "dsh-client-ui-skill"
+      ],
+      "keys": 8
+    },
+    {
+      "namespace": "slash.menu",
+      "packages": [
+        "dsh-client-ui-input-trigger"
+      ],
+      "keys": 9
+    },
+    {
+      "namespace": "subagent",
+      "packages": [
+        "dsh-client-ui-subagent"
+      ],
+      "keys": 41
+    },
+    {
+      "namespace": "trajectory",
+      "packages": [
+        "dsh-client-ui-trajectory"
+      ],
+      "keys": 192
+    },
+    {
+      "namespace": "voice-input",
+      "packages": [
+        "dsh-experimental-client-ui-voice-input"
+      ],
+      "keys": 109
+    },
+    {
+      "namespace": "workflowRun",
+      "packages": [
+        "dsh-client-ui-workflow-run"
+      ],
+      "keys": 18
+    },
+    {
+      "namespace": "workspace",
+      "packages": [
+        "dsh-client-ui-workspace"
+      ],
+      "keys": 119
+    }
+  ]
+}

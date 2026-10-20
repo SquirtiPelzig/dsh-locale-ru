@@ -1,0 +1,34 @@
+{
+  "namespace": "goal",
+  "packages": [
+    "dsh-client-ui-goal"
+  ],
+  "en": {
+    "phase.active": "Ongoing Goal",
+    "phase.active.disarmed": "Inactive Goal",
+    "phase.paused": "Paused Goal",
+    "phase.blocked": "Blocked Goal",
+    "objective.aria": "Goal objective",
+    "commandInput.aria": "Command input",
+    "action.save": "Save goal",
+    "action.cancel": "Cancel edit",
+    "action.pause": "Pause goal",
+    "action.resume": "Resume goal",
+    "action.edit": "Edit goal",
+    "action.clear": "Clear goal"
+  },
+  "ru": {
+    "phase.active": "Активная цель",
+    "phase.active.disarmed": "Неактивная цель",
+    "phase.paused": "Цель на паузе",
+    "phase.blocked": "Заблокированная цель",
+    "objective.aria": "Формулировка цели",
+    "commandInput.aria": "Ввод команды",
+    "action.save": "Сохранить цель",
+    "action.cancel": "Отменить изменение",
+    "action.pause": "Приостановить цель",
+    "action.resume": "Возобновить цель",
+    "action.edit": "Изменить цель",
+    "action.clear": "Очистить цель"
+  }
+}

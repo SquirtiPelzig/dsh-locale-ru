@@ -1,0 +1,42 @@
+{
+  "namespace": "schedule.catalog",
+  "packages": [
+    "dsh-client-ui-schedule"
+  ],
+  "en": {
+    "trigger.label": "Reminders",
+    "list.loading": "Loading reminders…",
+    "list.error": "Could not load reminders.",
+    "list.retry": "Retry",
+    "delete.action": "Delete",
+    "delete.pending": "Deleting…",
+    "delete.label": "Delete reminder: {title}",
+    "list.open": "Open reminder details: {title}",
+    "trigger.one": "{count} reminder",
+    "trigger.other": "{count} reminders",
+    "list.aria": "Active reminders",
+    "list.nextRun": "Next run",
+    "frequency.once": "Once",
+    "frequency.every": "Every {value} {unit}",
+    "mark.aria": "{count} scheduled tasks",
+    "hover.more": "{count} more"
+  },
+  "ru": {
+    "trigger.label": "Напоминания",
+    "list.loading": "Загрузка напоминаний…",
+    "list.error": "Не удалось загрузить напоминания.",
+    "list.retry": "Повторить",
+    "delete.action": "Удалить",
+    "delete.pending": "Удаление…",
+    "delete.label": "Удалить напоминание: {title}",
+    "list.open": "Открыть сведения о напоминании: {title}",
+    "trigger.one": "Напоминаний: {count}",
+    "trigger.other": "Напоминаний: {count}",
+    "list.aria": "Активные напоминания",
+    "list.nextRun": "Следующий запуск",
+    "frequency.once": "Однократно",
+    "frequency.every": "Каждые {value} {unit}",
+    "mark.aria": "Запланированных задач: {count}",
+    "hover.more": "Ещё {count}"
+  }
+}

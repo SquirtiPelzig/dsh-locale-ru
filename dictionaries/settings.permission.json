@@ -1,0 +1,34 @@
+{
+  "namespace": "settings.permission",
+  "packages": [
+    "dsh-client-ui-permission-presets"
+  ],
+  "en": {
+    "title": "Permission",
+    "description": "Choose the default permission mode for new sessions",
+    "loading": "Loading",
+    "unavailable": "Unavailable",
+    "preset.readOnly": "Read Only",
+    "preset.workspaceWrite": "Workspace Write",
+    "preset.fullAccess": "Full access",
+    "confirm.title": "Enable Full access?",
+    "confirm.description": "Full access lets new sessions reduce confirmation steps and perform more actions directly, including sensitive operations, file changes, or external commands. Only use it when you trust subsequent tasks.",
+    "confirm.acknowledge": "I understand the risks and want to continue",
+    "confirm.cancel": "Cancel",
+    "confirm.enable": "Enable Full access"
+  },
+  "ru": {
+    "title": "Разрешения",
+    "description": "Выберите режим разрешений по умолчанию для новых сессий",
+    "loading": "Загрузка",
+    "unavailable": "Недоступно",
+    "preset.readOnly": "Только чтение",
+    "preset.workspaceWrite": "Запись в рабочую область",
+    "preset.fullAccess": "Полный доступ",
+    "confirm.title": "Включить полный доступ?",
+    "confirm.description": "Полный доступ позволяет новым сессиям сокращать число подтверждений и напрямую выполнять больше действий, включая чувствительные операции, изменение файлов и внешние команды. Используйте его, только если доверяете последующим задачам.",
+    "confirm.acknowledge": "Я понимаю риски и хочу продолжить",
+    "confirm.cancel": "Отмена",
+    "confirm.enable": "Включить полный доступ"
+  }
+}

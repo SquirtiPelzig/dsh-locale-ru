@@ -1,0 +1,12 @@
+{
+  "namespace": "settings.locale",
+  "packages": [
+    "dsh-client-locale"
+  ],
+  "en": {
+    "language.title": "Language"
+  },
+  "ru": {
+    "language.title": "Язык"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "namespace": "sidebarExcel",
+  "packages": [
+    "dsh-client-ui-sidebar-documentpreview"
+  ],
+  "en": {
+    "title": "Spreadsheet",
+    "language": "en",
+    "loading": "Rendering document...",
+    "invalid": "This spreadsheet could not be opened. Check its format, contents, or password protection.",
+    "tooLarge": "This workbook exceeds the preview size limit.",
+    "timeout": "Opening this workbook timed out. Try a smaller file.",
+    "encoding": "This text encoding could not be read. Save the file as UTF-8 or UTF-16 with a BOM and retry.",
+    "formulaWarning": "This workbook contains formulas. Displayed results may be missing or inaccurate.",
+    "unsupportedNotice": "This preview does not support {features} in this workbook. Open it in a system application for the full experience.",
+    "charts": "charts",
+    "images": "images",
+    "shapes": "shapes",
+    "conditionalFormatting": "conditional formatting",
+    "featureSeparator": ", ",
+    "retry": "Retry"
+  },
+  "ru": {
+    "title": "Электронная таблица",
+    "language": "en",
+    "loading": "Отрисовка документа…",
+    "invalid": "Не удалось открыть эту таблицу. Проверьте формат, содержимое или защиту паролем.",
+    "tooLarge": "Эта книга превышает ограничение размера для предпросмотра.",
+    "timeout": "Истекло время ожидания открытия книги. Попробуйте файл поменьше.",
+    "encoding": "Не удалось прочитать эту кодировку текста. Сохраните файл в UTF-8 или UTF-16 с BOM и повторите попытку.",
+    "formulaWarning": "Эта книга содержит формулы. Отображаемые результаты могут отсутствовать или быть неточными.",
+    "unsupportedNotice": "Предпросмотр не поддерживает {features} в этой книге. Для полного просмотра откройте её в системном приложении.",
+    "charts": "диаграммы",
+    "images": "изображения",
+    "shapes": "фигуры",
+    "conditionalFormatting": "условное форматирование",
+    "featureSeparator": ", ",
+    "retry": "Повторить"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "namespace": "documentHtml",
+  "packages": [
+    "dsh-client-ui-sidebar-documentpreview"
+  ],
+  "en": {
+    "title": "HTML",
+    "frame": "HTML document preview",
+    "loading": "Rendering document...",
+    "failed": "This HTML document could not be previewed."
+  },
+  "ru": {
+    "title": "HTML",
+    "frame": "Предпросмотр документа HTML",
+    "loading": "Отрисовка документа…",
+    "failed": "Не удалось показать этот документ HTML."
+  }
+}

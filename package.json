@@ -1,0 +1,32 @@
+{
+  "name": "dsh-locale-ru",
+  "version": "1.0.0",
+  "description": "Russian (ru) language pack for the DeepSeek Harness web UI — 63 namespaces, 2730 strings",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "locale",
+    "i18n",
+    "russian",
+    "ru"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "README.md",
+    "README.ru.md"
+  ],
+  "dsh": {
+    "client": {
+      "platform": "web"
+    }
+  }
+}

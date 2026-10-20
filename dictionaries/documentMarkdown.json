@@ -1,0 +1,18 @@
+{
+  "namespace": "documentMarkdown",
+  "packages": [
+    "dsh-client-ui-sidebar-documentpreview"
+  ],
+  "en": {
+    "viewer.label": "Markdown",
+    "code.copy": "Copy",
+    "code.copied": "Copied",
+    "footnotes": "Footnotes"
+  },
+  "ru": {
+    "viewer.label": "Markdown",
+    "code.copy": "Копировать",
+    "code.copied": "Скопировано",
+    "footnotes": "Сноски"
+  }
+}

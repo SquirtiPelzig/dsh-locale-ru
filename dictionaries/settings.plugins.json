@@ -1,0 +1,20 @@
+{
+  "namespace": "settings.plugins",
+  "packages": [
+    "dsh-client-ui-settings-plugins"
+  ],
+  "en": {
+    "nav": "Built-in plugins",
+    "title": "Built-in plugins",
+    "intro": "Inspect the plugins this deployment ships.",
+    "tabs": "Plugin views",
+    "empty": "This deployment exposes no plugin views."
+  },
+  "ru": {
+    "nav": "Встроенные плагины",
+    "title": "Встроенные плагины",
+    "intro": "Просмотрите плагины, входящие в это развёртывание.",
+    "tabs": "Разделы плагинов",
+    "empty": "В этом развёртывании нет разделов плагинов."
+  }
+}

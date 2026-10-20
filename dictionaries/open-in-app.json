@@ -1,0 +1,40 @@
+{
+  "namespace": "open-in-app",
+  "packages": [
+    "dsh-client-ui-open-in-app"
+  ],
+  "en": {
+    "open.title": "Open in {app}",
+    "path.appDefault": "{app} (default)",
+    "path.appsError": "Could not load applications",
+    "shortcut.busy": "Opening workspace",
+    "shortcut.unavailable": "Current workspace or local application unavailable",
+    "open.tooltip": "Open locally",
+    "path.open": "Open",
+    "path.more": "More ways to open",
+    "path.reveal": "Show file location",
+    "path.openError": "Could not open. Try again.",
+    "path.revealError": "Could not show the file location. Try again.",
+    "app.finder": "Finder",
+    "app.explorer": "File Explorer",
+    "app.filemanager": "Files",
+    "app.terminal": "Terminal"
+  },
+  "ru": {
+    "open.title": "Открыть в {app}",
+    "path.appDefault": "{app} (по умолчанию)",
+    "path.appsError": "Не удалось загрузить приложения",
+    "shortcut.busy": "Открывается рабочая область",
+    "shortcut.unavailable": "Текущая рабочая область или локальное приложение недоступны",
+    "open.tooltip": "Открыть локально",
+    "path.open": "Открыть",
+    "path.more": "Другие способы открыть",
+    "path.reveal": "Показать расположение файла",
+    "path.openError": "Не удалось открыть. Повторите попытку.",
+    "path.revealError": "Не удалось показать расположение файла. Повторите попытку.",
+    "app.finder": "Finder",
+    "app.explorer": "Проводник",
+    "app.filemanager": "Файлы",
+    "app.terminal": "Терминал"
+  }
+}

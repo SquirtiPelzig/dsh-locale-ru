@@ -1,0 +1,36 @@
+{
+  "namespace": "directory-browser",
+  "packages": [
+    "dsh-client-ui-directory-picker-browse"
+  ],
+  "en": {
+    "browser.title": "Select Workspace Directory",
+    "browser.home": "Home",
+    "browser.newFolder": "New folder",
+    "browser.folderName": "Folder name",
+    "browser.createIn": "New folder in \"{name}\"",
+    "browser.untitledFolder": "Untitled folder",
+    "browser.create": "Create",
+    "browser.cancel": "Cancel",
+    "browser.open": "Open",
+    "browser.editPath": "Edit path",
+    "browser.loading": "Loading…",
+    "browser.truncated": "Too many folders to list; only the beginning is shown.",
+    "browser.showHidden": "Show hidden files"
+  },
+  "ru": {
+    "browser.title": "Выбор папки рабочей области",
+    "browser.home": "Домашняя папка",
+    "browser.newFolder": "Новая папка",
+    "browser.folderName": "Имя папки",
+    "browser.createIn": "Новая папка в «{name}»",
+    "browser.untitledFolder": "Папка без названия",
+    "browser.create": "Создать",
+    "browser.cancel": "Отмена",
+    "browser.open": "Открыть",
+    "browser.editPath": "Изменить путь",
+    "browser.loading": "Загрузка…",
+    "browser.truncated": "Слишком много папок; показано только начало списка.",
+    "browser.showHidden": "Показывать скрытые файлы"
+  }
+}

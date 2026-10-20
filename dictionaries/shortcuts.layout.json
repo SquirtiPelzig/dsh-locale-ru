@@ -1,0 +1,12 @@
+{
+  "namespace": "shortcuts.layout",
+  "packages": [
+    "dsh-client-ui-layout"
+  ],
+  "en": {
+    "toggle": "Toggle left sidebar"
+  },
+  "ru": {
+    "toggle": "Переключить левую боковую панель"
+  }
+}

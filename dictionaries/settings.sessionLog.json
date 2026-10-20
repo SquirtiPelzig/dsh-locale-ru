@@ -1,0 +1,18 @@
+{
+  "namespace": "settings.sessionLog",
+  "packages": [
+    "dsh-client-ui-settings-session-log"
+  ],
+  "en": {
+    "title": "Upload Session Log when using the official model API",
+    "description": "Help improve DeepSeek models and products.",
+    "saved": "Preference saved",
+    "failed": "Could not save preference"
+  },
+  "ru": {
+    "title": "Загружать журнал сессии при использовании официального API модели",
+    "description": "Помогите улучшить модели и продукты DeepSeek.",
+    "saved": "Параметр сохранён",
+    "failed": "Не удалось сохранить параметр"
+  }
+}
